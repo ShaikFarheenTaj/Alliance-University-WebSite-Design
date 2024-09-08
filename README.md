@@ -1,5 +1,4 @@
 # Alliance-University-WebSite-Design
-# Alliance University Website
 
 This repository contains the source code for the Alliance University landing page. The website is designed to provide users with information about the university, available courses, and an easy way to apply online. The website is fully responsive and mobile-friendly, ensuring an optimal user experience across all devices.
 
